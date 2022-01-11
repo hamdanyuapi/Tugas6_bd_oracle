@@ -10,5 +10,11 @@
 - Table Transaksi menambahkan data transaksi
 ![image](https://user-images.githubusercontent.com/45725263/148968863-d5c0a6ef-25f5-4e7f-8bd5-3ee751ae3349.png)
 ![image](https://user-images.githubusercontent.com/45725263/148968940-8d96d7a1-c7c6-4faf-a61f-96b15c592b8d.png)
+- Mendelete data bambang di table pembeli
+![image](https://user-images.githubusercontent.com/45725263/148969627-c29cf755-3152-4a46-bd0c-91ab2d90ae24.png)
+![image](https://user-images.githubusercontent.com/45725263/148969671-545d3641-17b7-4a14-9b41-1c378aad70b0.png)
+- Mendelete data table kelapa
+![image](https://user-images.githubusercontent.com/45725263/148969835-6acb2dd6-1142-4838-9fd2-8dee5f63ab86.png)
+![image](https://user-images.githubusercontent.com/45725263/148969913-62b7cf33-0419-4744-a5d5-6a9f138f6e06.png)
 
 
