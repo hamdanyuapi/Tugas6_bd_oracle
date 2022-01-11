@@ -15,6 +15,6 @@
 ![image](https://user-images.githubusercontent.com/45725263/148969671-545d3641-17b7-4a14-9b41-1c378aad70b0.png)
 - Mendelete data table kelapa
 ![image](https://user-images.githubusercontent.com/45725263/148969835-6acb2dd6-1142-4838-9fd2-8dee5f63ab86.png)
-![image](https://user-images.githubusercontent.com/45725263/148969913-62b7cf33-0419-4744-a5d5-6a9f138f6e06.png)
+![image](https://user-images.githubusercontent.com/45725263/148970105-bf731f65-18ce-4e07-b93f-dfcd7f50bc4e.png)
 
 
